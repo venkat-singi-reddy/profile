@@ -1,4 +1,4 @@
-# karolbuczek.com
+# www.singireddi.com
 
 Portfolio and interactive resume site for Karol Buczek - Solutions Architect.
 
